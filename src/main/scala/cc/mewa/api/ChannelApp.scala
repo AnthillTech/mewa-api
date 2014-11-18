@@ -1,9 +1,8 @@
 package cc.mewa.api
 
-import akka.actor.{ActorRef}
 
 /**
- * aplication with this protocol will process events send to the channel
+ * Application with this protocol will process events send to the channel
  */
 object ChannelApp {
   
